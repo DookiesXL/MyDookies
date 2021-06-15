@@ -115,7 +115,148 @@
                   <div class="tab-pane fade" id="v-pills-profile" role="tabpanel" aria-labelledby="v-pills-profile-tab">...</div>
                   <div class="tab-pane fade" id="v-pills-messages" role="tabpanel" aria-labelledby="v-pills-messages-tab">...</div>
                   <div class="tab-pane fade" id="v-pills-settings" role="tabpanel" aria-labelledby="v-pills-settings-tab">
-                    
+                    <div class = "row">
+                      <div class = "col-lg-12">
+                        <div class = "table-responsive-xl">
+                        <table class="table table-hover table-sm">
+                          <thead>
+                            <tr>
+                              <th scope="col">#</th>
+                              <th scope="col">App</th>
+                              <th scope="col">Username</th>
+                              <th scope="col">Email Address</th>
+                              <th scope="col">Password Change Date</th>
+                              <th scope="col">2FA Enabled</th>
+                              <th scope="col">2FA Method</th>
+                              <th scope="col">Comment</th>
+                            </tr>
+                          </thead>
+                          <tbody>
+                            <tr>
+                              <th scope="row">1</th>
+                              <td>Steam</td>
+                              <td>GrimReaperXD15 /Dookies</td>
+                              <td>aldrinjohn02@gmail.com</td>
+                              <td>N/A</td>
+                              <td>Yes</td>
+                              <td>Steam Mobile</td>
+                              <td>N/A</td>
+                            </tr>
+                            <tr>
+                              <th scope="row">2</th>
+                              <td>Battle.net</td>
+                              <td>Dookies</td>
+                              <td>aldrinjohn02@gmail.com</td>
+                              <td>N/A</td>
+                              <td>Yes</td>
+                              <td>Battle.Net</td>
+                              <td>N/A</td>
+                            </tr>
+                            <tr>
+                              <th scope="row">3</th>
+                              <td>Ubisoft</td>
+                              <td>DookiiesXL</td>
+                              <td>aldrinjohn02@gmail.com</td>
+                              <td>3/12/2020</td>
+                              <td>Yes</td>
+                              <td>Google Authenticator</td>
+                              <td>N/A</td>
+                            </tr>
+                             <tr>
+                              <th scope="row">4</th>
+                              <td>Nintendo Online</td>
+                              <td>Dookies</td>
+                              <td>aldrinjohn02@gmail.com</td>
+                              <td>N/A</td>
+                              <td>No</td>
+                              <td>N/A</td>
+                              <td>N/A</td>
+                            </tr>
+                             <tr>
+                              <th scope="row">5</th>
+                              <td>Playstation Network</td>
+                              <td>GrimReaperXP</td>
+                              <td>aldrin_john02@yahoo.com</td>
+                              <td>N/A</td>
+                              <td>No</td>
+                              <td>N/A</td>
+                              <td>CANNOT CHANGE EMAIL; gmail in Used</td>
+                            </tr>
+                             <tr>
+                              <th scope="row">6</th>
+                              <td>XBox Live</td>
+                              <td>GrimReaperXB</td>
+                              <td>aldrinjohn02@gmail.com</td>
+                              <td>N/A</td>
+                              <td>No</td>
+                              <td>N/A</td>
+                              <td>N/A</td>
+                            </tr>
+                             <tr>
+                              <th scope="row">7</th>
+                              <td>Guild Wars 2</td>
+                              <td>Driiin.9312</td>
+                              <td>aldrinjohn02@gmail.com</td>
+                              <td>3/12/2020</td>
+                              <td>Yes</td>
+                              <td>Google Authenticator</td>
+                              <td>*My Main Frame*Password Changed 5/5/2020</td>
+                            </tr>
+                             <tr>
+                              <th scope="row">8</th>
+                              <td>Warframe</td>
+                              <td>Dookies</td>
+                              <td>aldrinjohn02@gmail.com</td>
+                              <td>3/12/2020</td>
+                              <td>No</td>
+                              <td>N/A</td>
+                              <td>N/A</td>
+                            </tr>
+                             <tr>
+                              <th scope="row">9</th>
+                              <td>MyCallOfDuty</td>
+                              <td>GrimReaperXP</td>
+                              <td>aldrin_john02@yahoo.com</td>
+                              <td>N/A</td>
+                              <td>No</td>
+                              <td>N/A</td>
+                              <td>CANNOT CHANGE EMAIL; GMail in Used</td>
+                            </tr>
+                            <tr>
+                              <th scope="row">10</th>
+                              <td>GoG.com</td>
+                              <td>DookiesXL</td>
+                              <td>aldrinjohn02@gmail.com</td>
+                              <td>N/A</td>
+                              <td>Yes</td>
+                              <td>Email</td>
+                              <td>Email Changed 11/3</td>
+                            </tr>
+                            <tr>
+                              <th scope="row">11</th>
+                              <td>Genshin Impact PC</td>
+                              <td>Dookies</td>
+                              <td>aldrinjohn02@gmail.com</td>
+                              <td>N/A</td>
+                              <td>N/A</td>
+                              <td>N/A</td>
+                              <td>PC</td>
+                            </tr>
+                            <tr>
+                              <th scope="row">12</th>
+                              <td>Genshin Impact Android</td>
+                              <td>Aldrin</td>
+                              <td>aldrinjohn02@gmail.com</td>
+                              <td>N/A</td>
+                              <td>N/A</td>
+                              <td>N/A</td>
+                              <td>Google SSO</td>
+                            </tr>
+                          </tbody>
+                        </table>
+                      </div>
+                      </div>
+                    </div>
 
                   </div>
                 </div>
